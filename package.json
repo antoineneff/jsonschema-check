@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/antoineneff/jsonschema-check/issues"
   },
-  "homepage": "https://github.com/antoineneff/jsonschema-check#readme"
+  "homepage": "https://github.com/antoineneff/jsonschema-check#readme",
+  "dependencies": {
+    "ajv": "^5.1.5",
+    "express": "^4.15.3"
+  }
 }
